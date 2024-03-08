@@ -1,1 +1,42 @@
-
+[
+  {
+    slug: "sora-ai",
+    title: "Creating video from text",
+    date: "2023-10-16",
+    image: "sora-ai.png",
+    excerpt:
+      "Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.",
+    isFeatured: true,
+    readerCount : '1.2k',
+    content:
+      "\r\n" +
+      "Sora is an AI model that can create realistic and imaginative scenes from text instructions.\r\n" +
+      "\r\n" +
+      `Today, Sora is becoming available to red teamers to assess critical areas for harms or risks.\r\n` +
+      "\r\n" +
+      "We are also granting access to a number of visual artists, designers, and filmmakers to gain feedback on how to advance the model to be most helpful for creative professionals.\r\n" +
+      "\r\n" +
+      "We’re sharing our research progress early to start working with and getting feedback from people outside of OpenAI and to give the public a sense of what AI capabilities are on the horizon.\r\n" +
+      "\r\n" +
+      "## Safety\r\n" +
+      "\r\n" +
+      "We’ll be taking several important safety steps ahead of making Sora available in OpenAI’s products.\r\n" +
+      "\r\n",
+  },
+  {
+    slug: "chat-gpt",
+    title: "Open AI Chat GPT",
+    excerpt:
+      "ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. ",
+    image: "chat-gpt.png",
+    isFeatured: true,
+    readerCount : '3.2k',
+    date: "2022-12-30",
+    content:
+      "\r\n" +
+      "ChatGPT is a chatbot developed by OpenAI and launched on November 30, 2022. \r\n" +
+      "\r\n" +
+      " Based on a large language model, it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language.\r\n" +
+      "\r\n" +
+      "ChatGPT is available for use online in two versions, one built on GPT-3.5 and the other on GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google[8]—and is fine-tuned for conversational applications using a combination of supervised learning and reinforcement learning.",
+  }]
