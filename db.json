@@ -1,28 +1,14 @@
-
 {
-  "allPosts": [
-  {
-    slug: "sora-ai",
-    title: "Creating video from text",
-    date: "2023-10-16",
-    image: "sora-ai.png",
-    excerpt:
-      "Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.",
-    isFeatured: true,
-    readerCount : '1.2k',
-    content: "Sora is an AI model that can create realistic and imaginative scenes from text instructions." 
-  },
-  {
-    slug: "chat-gpt",
-    title: "Open AI Chat GPT",
-    excerpt: "ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. ",
-    image: "chat-gpt.png",
-    isFeatured: true,
-    readerCount : '3.2k',
-    date: "2022-12-30",
-    content:
-      "ChatGPT is a chatbot developed by OpenAI and launched on November 30, 2022." 
-}]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
-
