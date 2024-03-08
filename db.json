@@ -15,14 +15,13 @@
   {
     slug: "chat-gpt",
     title: "Open AI Chat GPT",
-    excerpt:
-      "ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. ",
+    excerpt: "ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. ",
     image: "chat-gpt.png",
     isFeatured: true,
     readerCount : '3.2k',
     date: "2022-12-30",
     content:
-      "ChatGPT is a chatbot developed by OpenAI and launched on November 30, 2022." +
+      "ChatGPT is a chatbot developed by OpenAI and launched on November 30, 2022." 
 }]
 }
 
