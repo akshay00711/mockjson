@@ -20,12 +20,12 @@
     "excerpt":
       "Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.",
     "isFeatured": true,
-    "readerCount" : '1.2k',
+    "readerCount" : "1.2k",
     "content":
       "\r\n" +
       "Sora is an AI model that can create realistic and imaginative scenes from text instructions.\r\n" +
       "\r\n" +
-      `Today, Sora is becoming available to red teamers to assess critical areas for harms or risks.\r\n` +
+      "Today, Sora is becoming available to red teamers to assess critical areas for harms or risks.\r\n" +
       "\r\n" +
       "We are also granting access to a number of visual artists, designers, and filmmakers to gain feedback on how to advance the model to be most helpful for creative professionals.\r\n" +
       "\r\n" +
@@ -43,7 +43,7 @@
       "ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. ",
     "image": "chat-gpt.png",
     "isFeatured": true,
-    "readerCount" : '3.2k',
+    "readerCount" : "3.2k",
     "date": "2022-12-30",
     "content":
       "\r\n" +
