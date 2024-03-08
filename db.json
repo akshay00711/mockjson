@@ -1,4 +1,6 @@
-[
+
+{
+  "allPosts": [
   {
     slug: "sora-ai",
     title: "Creating video from text",
@@ -40,3 +42,6 @@
       "\r\n" +
       "ChatGPT is available for use online in two versions, one built on GPT-3.5 and the other on GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google[8]—and is fine-tuned for conversational applications using a combination of supervised learning and reinforcement learning.",
   }]
+}
+
+
