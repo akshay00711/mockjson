@@ -50,6 +50,6 @@
   "readerCount": "1.7k",
   "date": "2022-12-30",
   "content": "\r\n         •	Model Description: General-purpose text-to-text transformer model.         •	Model Developer/Organization: Google AI Language Team         •	Model Architecture: Transformer         •	Key Features: Unified framework for various NLP tasks by framing them as text-to-text transformations.         •	Pe•	Model Category: Natural Language Processing (NLP)         rformance Metrics: Achieved state-of-the-art results in several NLP benchmarks.         •	Availability: Open-source (licensed under Apache License 2.0)         Github blog: https://github.com/google-research/text-to-text-transfer-transformer         Google research blog: http://blog.research.google/2020/02/exploring-transfer-learning-with-t5.html         \r\n \r\n"
-},
+}
   ]
 }
