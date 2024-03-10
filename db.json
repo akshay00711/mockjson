@@ -31,6 +31,6 @@
       "readerCount": "3.4k",
       "date": "2022-12-30",
       "content": "\r\n Model Description: Generates images from textual descriptions using a conditional version of GPT.\r\n \r\n * Item Model Category: Natural Language Processing (NLP) for Image Generation\r\n \r\n * Item Model Developer/Organization: OpenAI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Generates diverse and creative images based on textual prompts.\r\n \r\n * Item Performance Metrics: Notable for its capability to generate high-quality images from textual descriptions.\r\n \r\n * Item Availability: Proprietary (API access provided by OpenAI)\r\n \r\n * Item Wikipedia:  [link](https://en.wikipedia.org/wiki/DALL-E) **https://en.wikipedia.org/wiki/DALL-E** \r\n \r\n * Item Microsoft blog: [link](https://create.microsoft.com/en-us/learn/articles/how-to-image-prompts-dall-e-ai) **https://create.microsoft.com/en-us/learn/articles/how-to-image-prompts-dall-e-ai**  \r\n \r\n"
-    },
+    }
   ]
 }
