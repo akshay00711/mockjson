@@ -1,16 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "allPost" : [
     {
       "slug": "sora-ai",
@@ -61,6 +49,26 @@
       "readerCount": "2.4k",
       "date": "2022-12-30",
       "content": "\r\n \r\n * Item Model Description: Dense connectivity patterns between layers in convolutional neural networks.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Cornell University\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Facilitates feature reuse and alleviates the vanishing-gradient problem.\r\n \r\n * Item Performance Metrics: Achieved state-of-the-art results in image classification and object detection tasks.\r\n \r\n * Item Availability: Open-source (licensed under MIT License) \r\n \r\n * Item  Github blog: [link](https://amaarora.github.io/posts/2020-08-02-densenets.html) **https://amaarora.github.io/posts/2020-08-02-densenets.html** \r\n \r\n * Item  Microsoft Learn: [link](https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/densenet?view=azureml-api-2) **https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/densenet?view=azureml-api-2** \r\n \r\n"
-    }
-  ]
+    },
+    {
+      "slug": "BART",
+      "title": "Bidirectional and Auto-Regressive Transformers",
+      "excerpt": "Sequence-to-sequence model for text generation and comprehension tasks.",
+      "image": "BART.png",
+      "isFeatured": false,
+      "readerCount": "2.7k",
+      "date": "2022-12-30",
+      "content": "\r\n \r\n * Item Model Description: Sequence-to-sequence model for text generation and comprehension tasks.\r\n \r\n * Item Model Category: Natural Language Processing (NLP)\r\n \r\n * Item Model Developer/Organization: Facebook AI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Capable of various NLP tasks, including text summarization, language translation, and document completion.\r\n \r\n * Item Performance Metrics: Achieved competitive results in summarization and generation benchmarks.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0) \r\n \r\n * Item Google blogs: [link](https://blog.google/technology/ai/bard-google-ai-search-updates/) **https://blog.google/technology/ai/bard-google-ai-search-updates/** \r\n \r\n"
+  },
+  {
+      "slug": "RoBERTa ",
+      "title": "Robustly Optimized BERT Approach",
+      "excerpt": "Optimized version of BERT with improved training procedures.",
+      "image": "RoBERTa.png",
+      "isFeatured": true,
+      "readerCount": "3.3k",
+      "date": "2022-12-30",
+      "content": "\r\n \r\n * Item Model Description: Optimized version of BERT with improved training procedures.\r\n \r\n * Item Model Category: Natural Language Processing (NLP)\r\n \r\n * Item Model Developer/Organization: Facebook AI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Achieves better performance by pre-training with larger datasets and longer sequences.\r\n \r\n * Item Performance Metrics: Competitive results in various NLP benchmarks, including GLUE and SQuAD.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0) \r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/overview-of-roberta-model/) **https://www.geeksforgeeks.org/overview-of-roberta-model/**         Pytorch: [link](https://pytorch.org/hub/pytorch_fairseq_roberta/) **https://pytorch.org/hub/pytorch_fairseq_roberta/** \r\n \r\n"
+  }
+ ]
 }
