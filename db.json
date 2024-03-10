@@ -31,46 +31,5 @@
       "readerCount": "3.2k",
       "date": "2022-12-30",
       "content":"\r\n • Model Description: Large-scale language model capable of generating human-like text.\r\n       •	Model Category: Natural Language Processing (NLP)\r\n       •	Model Developer/Organization: OpenAI\r\n       •	Model Architecture: Transformer\r\n       •	Key Features: Natural language generation, text completion, language translation.\r\n       •	Performance Metrics: Achieved state-of-the-art performance on various language tasks.\r\n       •	Availability: Proprietary (API access provided by OpenAI)\r\n \r\n       Wikipedia link: https://en.wikipedia.org/wiki/GPT-3\r\n       Open AI’s blog link: https://openai.com/blog/gpt-3-apps\r\n       \r\n \r\n"
-    },
-    {
-      "slug": "BERT",
-      "title": "Bidirectional Encoder Representations from Transformers",
-      "excerpt": "Pre-trained contextual language representation model developed by Google AI Language Team",
-      "image": "BERT.png",
-      "isFeatured": true,
-      "readerCount": "2.4k",
-      "date": "2022-12-30",
-     "content": "\r\n        • Model Description: Pre-trained contextual language representation model. \r\n       •	Model Category: Natural Language Processing (NLP)\r\n       •	Model Developer/Organization: Google AI Language Team\r\n       •	Model Architecture: Transformer\r\n       •	Key Features: Contextual understanding of language, used for tasks like text classification, question answering, and more.\r\n       •	Performance Metrics: State-of-the-art results in various NLP benchmarks.\r\n       •	Availability: Open-source (licensed under Apache License 2.0)\r\n\n       Wikipedia link: https://en.wikipedia.org/wiki/BERT_(language_model)\r\n       Google’s official research blog: http://blog.research.google/2018/11/open-sourcing-bert-state-of-art-pre.html       \r\n \r\n"
-    },
-    {
-      "slug": "YOLO",
-      "title": "You Only Look Once",
-      "excerpt": "Real-time object detection system developed by Joseph Redmon and Ali Farhadi",
-      "image": "YOLO.png",
-      "isFeatured": true,
-      "readerCount": "2.7k",
-      "date": "2022-12-30",
-    "content": "\r\n•	Model Description: Real-time object detection system. \r\n       •	Model Category: Computer Vision\r\n       •	Model Developer/Organization: Joseph Redmon and Ali Farhadi\r\n       •	Model Architecture: Convolutional Neural Network (CNN)\r\n       •	Key Features: Fast object detection in real-time video streams.\r\n       •	Performance Metrics: High accuracy and speed compared to traditional object detection systems.\r\n       •	Availability: Open-source (licensed under MIT License)\r\n       v7 labs link: https://www.v7labs.com/blog/yolo-object-detection\r\n       Joseph Redmon official documentation: https://pjreddie.com/yolo/       \r\n \r\n"
-    },
-    {
-        "slug": "ResNet",
-        "title": "Residual Neural Network",
-        "excerpt": "Deep convolutional neural network architecture developed by Microsoft Research",
-        "image": "ResNet.png",
-        "isFeatured": true,
-        "readerCount": "1.7k",
-        "date": "2022-12-30",
-       "content": "\r\n         •	Model Description: Deep convolutional neural network architecture.         •	Model Category: Computer Vision         •	Model Developer/Organization: Microsoft Research         •	Model Architecture: Convolutional Neural Network (CNN)         •	Key Features: Very deep network architecture with skip connections to address the vanishing gradient problem.         •	Performance Metrics: Achieved state-of-the-art results in image classification tasks.         •	Availability: Open-source (licensed under MIT License)         Wikipedia link: https://en.wikipedia.org/wiki/Residual_neural_network         Microsoft official blog: https://www.microsoft.com/en-us/research/blog/microsoft-vision-model-resnet-50-combines-web-scale-data-and-multi-task-learning-to-achieve-state-of-the-art/         \r\n \r\n"
-      },
-      {
-        "slug": "Transformer-XL",
-        "title": "Enhanced Transformer architecture for long-range dependencies",
-        "excerpt": "Developed by Google AI Language Team",
-        "image": "Transformer-XL.png",
-        "isFeatured": true,
-        "readerCount": "3.7k",
-        "date": "2022-12-30",
-       "content": "\r\n         •	Model Description: Enhanced Transformer architecture for long-range dependencies.         •	Model Category: Natural Language Processing (NLP)         •	Model Developer/Organization: Google AI Language Team         •	Model Architecture: Transformer         •	Key Features: Improved modeling of long-range dependencies in sequences.         •	Performance Metrics: State-of-the-art results in various NLP tasks, especially for longer sequences.         •	Availability: Open-source (licensed under Apache License 2.0)         Github document: https://github.com/kimiyoung/transformer-xl         Google research blog: https://blog.research.google/2019/01/transformer-xl-unleashing-potential-of.html         \r\n \r\n"
-      },
-     
+    } 
   ]
