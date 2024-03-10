@@ -69,6 +69,26 @@
       "readerCount": "3.3k",
       "date": "2022-12-30",
       "content": "\r\n \r\n * Item Model Description: Optimized version of BERT with improved training procedures.\r\n \r\n * Item Model Category: Natural Language Processing (NLP)\r\n \r\n * Item Model Developer/Organization: Facebook AI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Achieves better performance by pre-training with larger datasets and longer sequences.\r\n \r\n * Item Performance Metrics: Competitive results in various NLP benchmarks, including GLUE and SQuAD.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0) \r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/overview-of-roberta-model/) **https://www.geeksforgeeks.org/overview-of-roberta-model/**         Pytorch: [link](https://pytorch.org/hub/pytorch_fairseq_roberta/) **https://pytorch.org/hub/pytorch_fairseq_roberta/** \r\n \r\n"
-  }
+  },
+  {
+      "slug": "EfficientDet",
+      "title": "Developed by Google Research Team",
+      "excerpt": "Achieves state-of-the-art performance with fewer parameters and computations in object detection tasks.",
+      "image": "EfficientDet.png",
+      "isFeatured": false,
+      "readerCount": "2.3k",
+      "date": "2022-12-30",
+      "content": "\r\n \r\n * Item Model Description: Scalable and efficient object detection model based on the EfficientNet architecture.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Google Research\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Achieves state-of-the-art performance with fewer parameters and computations in object detection tasks.\r\n \r\n * Item Performance Metrics: Demonstrated superior performance compared to previous object detection models.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0)\r\n \r\n * Item Wikipedia: [link](https://en.wikipedia.org/wiki/Vision_transformer) **https://en.wikipedia.org/wiki/Vision_transformer** \r\n \r\n * Item Google research blog: [link](https://blog.research.google/2019/05/efficientnet-improving-accuracy-and.html?m=1) **https://blog.research.google/2019/05/efficientnet-improving-accuracy-and.html?m=1** \r\n \r\n"
+  },
+  {
+    "slug": "Mask R-CNN ",
+    "title": "Region-based Convolutional Neural Network",
+    "excerpt": "Extends Faster R-CNN by adding a branch for predicting segmentation masks.",
+    "image": "Mask.png",
+    "isFeatured": false,
+    "readerCount": "1.5k",
+    "date": "2022-12-30",
+    "content": "\r\n \r\n * Item Model Description: Extends Faster R-CNN by adding a branch for predicting segmentation masks.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Facebook AI Research\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Simultaneously predicts object bounding boxes and segmentation masks.\r\n \r\n * Item Performance Metrics: Achieved state-of-the-art results in instance segmentation tasks.\r\n \r\n * Item Availability: Open-source (licensed under MIT License) \r\n \r\n * Item Geeksfoegeeks: [link](https://www.geeksforgeeks.org/mask-r-cnn-ml/) **https://www.geeksforgeeks.org/mask-r-cnn-ml/** \r\n \r\n * Item research blog: [link](https://paperswithcode.com/paper/mask-r-cnn) **https://paperswithcode.com/paper/mask-r-cnn** \r\n \r\n"
+  }  
  ]
 }
