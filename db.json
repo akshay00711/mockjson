@@ -31,6 +31,36 @@
       "readerCount": "3.4k",
       "date": "2022-12-30",
       "content": "\r\n Model Description: Generates images from textual descriptions using a conditional version of GPT.\r\n \r\n * Item Model Category: Natural Language Processing (NLP) for Image Generation\r\n \r\n * Item Model Developer/Organization: OpenAI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Generates diverse and creative images based on textual prompts.\r\n \r\n * Item Performance Metrics: Notable for its capability to generate high-quality images from textual descriptions.\r\n \r\n * Item Availability: Proprietary (API access provided by OpenAI)\r\n \r\n * Item Wikipedia:  [link](https://en.wikipedia.org/wiki/DALL-E) **https://en.wikipedia.org/wiki/DALL-E** \r\n \r\n * Item Microsoft blog: [link](https://create.microsoft.com/en-us/learn/articles/how-to-image-prompts-dall-e-ai) **https://create.microsoft.com/en-us/learn/articles/how-to-image-prompts-dall-e-ai**  \r\n \r\n"
+    },
+    {
+      "slug": "CycleGAN",
+      "title": "Cycle-Consistent Generative Adversarial Network",
+      "excerpt": "Generates diverse and creative images based on textual prompts.",
+      "image": "CycleGAN.png",
+      "isFeatured": false,
+      "readerCount": "1.3k",
+      "date": "2022-12-30",
+      "content": "\r\n \r\n * Item Model Description: Unsupervised image-to-image translation model.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Jun-Yan Zhu et al. (UC Berkeley)\r\n \r\n * Item Model Architecture: Generative Adversarial Network (GAN \r\n \r\n * Item Key Features: Translates images from one domain to another without paired examples using a cycle-consistency loss.\r\n \r\n * Item Performance Metrics: Demonstrated impressive results in various image translation tasks.\r\n \r\n * Item Availability: Open-source (licensed under MIT License)\r\n \r\n * Item Tensorflow website: [link](https://www.tensorflow.org/tutorials/generative/cyclegan)  **https://www.tensorflow.org/tutorials/generative/cyclegan** \r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/cycle-generative-adversarial-network-cyclegan-2/) **https://www.geeksforgeeks.org/cycle-generative-adversarial-network-cyclegan-2/** \r\n \r\n"
+    },
+    {
+      "slug": "VGG",
+      "title": "Visual Geometry Group",
+      "excerpt": "Deep convolutional neural network architecture for image recognition.",
+      "image": "VGG.png",
+      "isFeatured": true,
+      "readerCount": "2.7k",
+      "date": "2022-12-30",
+      "content": "\r\n \r\n * Item Model Description: Deep convolutional neural network architecture for image recognition.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Visual Geometry Group, University of Oxford\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Known for its simplicity and effectiveness in image classification tasks.\r\n \r\n * Item Performance Metrics: Achieved competitive results in ImageNet classification challenges.\r\n \r\n * Item Availability: Open-source (licensed under Creative Commons Attribution 4.0 International License)\r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/vgg-16-cnn-model/) **https://www.geeksforgeeks.org/vgg-16-cnn-model/**  \r\n \r\n * Item Kaggle: [link](https://www.kaggle.com/code/blurredmachine/vggnet-16-architecture-a-complete-guide) **https://www.kaggle.com/code/blurredmachine/vggnet-16-architecture-a-complete-guide** \r\n \r\n"
+    },
+    {
+      "slug": "DenseNet",
+      "title": "Densely Connected Convolutional Network",
+      "excerpt": "Dense connectivity patterns between layers in convolutional neural networks.",
+      "image": "DenseNet.png",
+      "isFeatured": false,
+      "readerCount": "2.4k",
+      "date": "2022-12-30",
+      "content": "\r\n \r\n * Item Model Description: Dense connectivity patterns between layers in convolutional neural networks.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Cornell University\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Facilitates feature reuse and alleviates the vanishing-gradient problem.\r\n \r\n * Item Performance Metrics: Achieved state-of-the-art results in image classification and object detection tasks.\r\n \r\n * Item Availability: Open-source (licensed under MIT License) \r\n \r\n * Item  Github blog: [link](https://amaarora.github.io/posts/2020-08-02-densenets.html) **https://amaarora.github.io/posts/2020-08-02-densenets.html** \r\n \r\n * Item  Microsoft Learn: [link](https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/densenet?view=azureml-api-2) **https://learn.microsoft.com/en-us/azure/machine-learning/component-reference/densenet?view=azureml-api-2** \r\n \r\n"
     }
   ]
 }
