@@ -69,16 +69,6 @@
       "readerCount": "3.3k",
       "date": "2022-12-30",
       "content": "\r\n \r\n * Item Model Description: Optimized version of BERT with improved training procedures.\r\n \r\n * Item Model Category: Natural Language Processing (NLP)\r\n \r\n * Item Model Developer/Organization: Facebook AI\r\n \r\n * Item Model Architecture: Transformer\r\n \r\n * Item Key Features: Achieves better performance by pre-training with larger datasets and longer sequences.\r\n \r\n * Item Performance Metrics: Competitive results in various NLP benchmarks, including GLUE and SQuAD.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0) \r\n \r\n * Item Geeksforgeeks: [link](https://www.geeksforgeeks.org/overview-of-roberta-model/) **https://www.geeksforgeeks.org/overview-of-roberta-model/** \r\n \r\n * Item Pytorch: [link](https://pytorch.org/hub/pytorch_fairseq_roberta/) **https://pytorch.org/hub/pytorch_fairseq_roberta/** \r\n \r\n"
-  },
-  {
-      "slug": "EfficientDet",
-      "title": "Developed by Google Research Team",
-      "excerpt": "Achieves state-of-the-art performance with fewer parameters and computations in object detection tasks.",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Findiaai.gov.in%2Fnews%2Fgoogle-ai-open-sources-efficientdet&psig=AOvVaw0infMFGRsAUXEs3tQpE5nS&ust=1710213089981000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjkyLWe64QDFQAAAAAdAAAAABAD",
-      "isFeatured": false,
-      "readerCount": "2.3k",
-      "date": "2022-12-30",
-      "content": "\r\n \r\n * Item Model Description: Scalable and efficient object detection model based on the EfficientNet architecture.\r\n \r\n * Item Model Category: Computer Vision\r\n \r\n * Item Model Developer/Organization: Google Research\r\n \r\n * Item Model Architecture: Convolutional Neural Network (CNN)\r\n \r\n * Item Key Features: Achieves state-of-the-art performance with fewer parameters and computations in object detection tasks.\r\n \r\n * Item Performance Metrics: Demonstrated superior performance compared to previous object detection models.\r\n \r\n * Item Availability: Open-source (licensed under Apache License 2.0)\r\n \r\n * Item Wikipedia: [link](https://en.wikipedia.org/wiki/Vision_transformer) **https://en.wikipedia.org/wiki/Vision_transformer** \r\n \r\n * Item Google research blog: [link](https://blog.research.google/2019/05/efficientnet-improving-accuracy-and.html?m=1) **https://blog.research.google/2019/05/efficientnet-improving-accuracy-and.html?m=1** \r\n \r\n"
   }
  ]
 }
